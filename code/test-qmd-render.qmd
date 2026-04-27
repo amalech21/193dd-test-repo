@@ -1,0 +1,17 @@
+---
+title: "test repo code"
+author: "Abby Malech"
+format: pdf
+---
+
+# 1. Set up
+
+```{r}
+#| label: packages
+
+library(tidyverse)
+```
+
+
+
+
